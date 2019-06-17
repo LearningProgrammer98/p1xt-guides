@@ -65,10 +65,10 @@ Math will be relevant throughout the guide. Begin it as you start the guide, and
 
 | Courses                                                       | Status | Evidence |
 | :------------------------------------------------------------ | :----: | :------: |
-| [Algebra I](https://www.khanacademy.org/math/algebra)         |        |
-| [Algebra II](https://www.khanacademy.org/math/algebra2)       |        |
-| [Trigonometry](https://www.khanacademy.org/math/trigonometry) |        |
-| [Precalculus](https://www.khanacademy.org/math/precalculus)   |        |
+| [Algebra I](https://www.khanacademy.org/math/algebra)         |  DONE  |
+| [Algebra II](https://www.khanacademy.org/math/algebra2)       |  In Progress(74%)  |
+| [Trigonometry](https://www.khanacademy.org/math/trigonometry) |  In Progress(61%)  |
+| [Precalculus](https://www.khanacademy.org/math/precalculus)   |  In Progress(61%)  |
 
 ### Tier X - Programming Prep Prep
 
@@ -76,7 +76,7 @@ A very gentle introduction, complete if feel you would benefit from it, skip if 
 
 | Courses                                                                                                                                                               |   Status   |   Evidence   |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------: | :----------: |
-| [Intro to JS: Drawing & Animation](https://www.khanacademy.org/computing/computer-programming/programming)                                                            |            |
+| [Intro to JS: Drawing & Animation](https://www.khanacademy.org/computing/computer-programming/programming)                                                            |      In Progress (6/17 Sections)      |
 | [Intro to HTML/CSS: Making webpages](https://www.khanacademy.org/computing/computer-programming/html-css)                                                             |            |
 | [Intro to SQL: Querying and managing data](https://www.khanacademy.org/computing/computer-programming/sql)                                                            |            |
 | [Advanced JS: Games & Visualizations](https://www.khanacademy.org/computing/computer-programming/programming-games-visualizations)                                    |            |
