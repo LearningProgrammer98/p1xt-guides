@@ -65,10 +65,10 @@ Math will be relevant throughout the guide. Begin it as you start the guide, and
 
 | Courses                                                       | Status | Evidence |
 | :------------------------------------------------------------ | :----: | :------: |
-| [Algebra I](https://www.khanacademy.org/math/algebra)         |  DONE  | [Evidence](https://photos.app.goo.gl/WcwCr8Fy9TTUPwfA8)
-| [Algebra II](https://www.khanacademy.org/math/algebra2)       |  DONE  |
-| [Trigonometry](https://www.khanacademy.org/math/trigonometry) |  In Progress(97%)  |
-| [Precalculus](https://www.khanacademy.org/math/precalculus)   |  In Progress(71%)  |
+| [Algebra I](https://www.khanacademy.org/math/algebra)         |  DONE  | [Evidence](https://photos.app.goo.gl/cm6aX3wQVRJ43ZJHA)
+| [Algebra II](https://www.khanacademy.org/math/algebra2)       |  DONE  | [Evidence](https://photos.app.goo.gl/gGYfFN7p5FcsDcDYA)
+| [Trigonometry](https://www.khanacademy.org/math/trigonometry) |  DONE  | [Evidence](https://photos.app.goo.gl/Sws9fQfv1HUSmsFr6)
+| [Precalculus](https://www.khanacademy.org/math/precalculus)   |  DONE  | [Evidence](https://photos.app.goo.gl/ixJ5gS5oceyx2sQG7)
 
 ### Tier X - Programming Prep Prep
 
@@ -76,13 +76,13 @@ A very gentle introduction, complete if feel you would benefit from it, skip if 
 
 | Courses                                                                                                                                                               |   Status   |   Evidence   |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------: | :----------: |
-| [Intro to JS: Drawing & Animation](https://www.khanacademy.org/computing/computer-programming/programming)                                                            |      DONE      |
-| [Intro to HTML/CSS: Making webpages](https://www.khanacademy.org/computing/computer-programming/html-css)                                                            |      DONE      |
-| [Intro to SQL: Querying and managing data](https://www.khanacademy.org/computing/computer-programming/sql)                                                            |      DONE      |
-| [Advanced JS: Games & Visualizations](https://www.khanacademy.org/computing/computer-programming/programming-games-visualizations)                                    |      DONE      |
-| [HTML/JS: Making webpages interactive](https://www.khanacademy.org/computing/computer-programming/html-css-js)                                                        |      DONE      |
+| [Intro to JS: Drawing & Animation](https://www.khanacademy.org/computing/computer-programming/programming)                                                            |      DONE      | [Evidence](https://photos.app.goo.gl/dJh3C7BVBKNM71BT6)
+| [Intro to HTML/CSS: Making webpages](https://www.khanacademy.org/computing/computer-programming/html-css)                                                            |      DONE      | [Evidence](https://photos.app.goo.gl/4e1LuE4W4oFWdWH78)
+| [Intro to SQL: Querying and managing data](https://www.khanacademy.org/computing/computer-programming/sql)                                                            |      DONE      | [Evidence](https://photos.app.goo.gl/Qb8ZxCyRW89921ah8)
+| [Advanced JS: Games & Visualizations](https://www.khanacademy.org/computing/computer-programming/programming-games-visualizations)                                    |      DONE      | Dude trust me
+| [HTML/JS: Making webpages interactive](https://www.khanacademy.org/computing/computer-programming/html-css-js)                                                        |      DONE      | [Evidence](https://photos.app.goo.gl/c2UPQF1SprnvQcLx8)
 | **Capstone**                                                                                                                                                          | **Status** | **Evidence** |
-| Create a website highlighting what you learned and built during this tier. Use this as an opportunity to create a portfolio of your projects, notes, blog posts, etc. |            |
+| Create a website highlighting what you learned and built during this tier. Use this as an opportunity to create a portfolio of your projects, notes, blog posts, etc. |      In Progress      |
 
 ### Tier 0 - Web Development - Fullstack Bootcamp - App Academy Open
 
